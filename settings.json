@@ -1,13 +1,13 @@
 {
-  "name": "BOT1",
+  "name": "Anas2",
   "bot-account": {
-    "username": "BOT1",
+    "username": "AnasBot2",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "anasmc.mcsh.io",
-    "port": 25565,
+    "ip": "zetronxmc.aternos.me",
+    "port": 63949,
     "version": "1.21.11"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "أهلا أنا بوت لمراقبه السيرفر انتبه!!!",
         "أدخل للديسكورد الأن واربح جوائز كثيره",
-        "أنا أحب أن ألعب ماينكرافت"
+        "أدخل للديسكورد الأن واربح جوائز كثيره",
+        "أدخل للديسكورد الأن واربح جوائز كثيره"
       ]
     },
     "chat-log": true,
